@@ -1,0 +1,37 @@
+TailShell – LICENSE.txt  
+Copyright (c) 2025 MizuLab
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+
+For the full license text, see:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+For commercial licensing or collaboration inquiries, please contact us.
+
+----
+
+TailShell – ライセンス情報（日本語訳）  
+Copyright (c) 2025 MizuLab
+
+この作品は、クリエイティブ・コモンズ・ライセンス [表示 - 非営利 4.0 国際（CC BY-NC 4.0）](https://creativecommons.org/licenses/by-nc/4.0/deed.ja) の下に提供されています。
+
+あなたは以下のことができます：
+- 共有 — あらゆる媒体または形式で複製し、再配布できます。
+- 変更 — リミックス、変形、または別の作品の構成要素として利用できます。
+
+以下の条件を守る限りにおいて：
+- 表示 — 適切なクレジットを表示し、ライセンスへのリンクを提供し、変更があった場合はその旨を明示しなければなりません。
+- 非営利 — この作品を商業目的で利用してはなりません。
+
+詳細は以下を参照してください：
+https://creativecommons.org/licenses/by-nc/4.0/
+
+商用利用を希望される場合はお問合せください。
