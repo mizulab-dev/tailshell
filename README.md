@@ -28,6 +28,8 @@
 このプロジェクトは **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)** のもとで公開されています。  
 非商用の範囲であれば、自由に利用・複製・改変できます。
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ---
 
 ## 公開日（Initial Release）
@@ -62,6 +64,8 @@ This project is created and maintained by **MizuLab**, as part of an open resear
 
 This project is licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.  
 Free to use and modify for non-commercial purposes with attribution.
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
