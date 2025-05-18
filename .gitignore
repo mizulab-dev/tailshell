@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# 3Dソフト出力
+*.blend1
+*.bak
+*.tmp
+
+# IDE
+.idea/
+.vscode/
